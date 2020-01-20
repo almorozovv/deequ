@@ -245,7 +245,7 @@
                         <license implementation="org.apache.rat.analysis.license.SimplePatternBasedLicense">
                             <licenseFamilyCategory>AL2</licenseFamilyCategory>
                             <licenseFamilyName>Apache License, Version 2.0</licenseFamilyName>
-                            <notes></notes>
+                            <notes/>
                             <patterns>
                                 <pattern>Apache License, Version 2.0</pattern>
                                 <pattern>http://aws.amazon.com/apache2.0/</pattern>
